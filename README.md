@@ -1,1 +1,1 @@
-# DGT301
+# DGT301 - Facial Recognition Signal Processing
